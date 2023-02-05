@@ -12,7 +12,7 @@ Hidratos são compostos cristalinos, de aparência semelhantes ao gelo, formados
 
 Nesse estudo foram utilizados dados reais e simulados de um processo de produção de petróleo com a medição de variáveis e a detecção de formação de hidratos nas linhas de produção dos poços. Os dados foram coletados e produzidos durante os anos de 2017 e 2018 e conta com 81 instâncias simuladas e 3 instâncias reais.
 
-O objetivo desse estudo foi realizar uma análise exploratória dos dados para entender melhor os dados e o comportamento das variáveis ao longo do processo, além de identificar variáveis congeladas e faltantes. Posteriormente foi realizado a criação de *Machine Learning* para classificação binária da condição dos poços. Para a criação dos modelos foi optado por utilizar uma metodologia que sugeri a criação de modelos mais simples até modelos mais robustos, avaliando-os e escolhendo aquele que melhor se encaixar a situação problema.
+O objetivo desse estudo foi realizar uma análise exploratória dos dados para entender melhor os dados e o comportamento das variáveis ao longo do processo, além de identificar variáveis congeladas e faltantes. Posteriormente foi realizado a criação de modelos de *Machine Learning* para classificação binária da condição dos poços. Para a criação dos modelos foi optado por utilizar uma metodologia que sugeri a criação de modelos mais simples até modelos mais robustos, avaliando-os e escolhendo aquele que melhor se encaixar a situação problema.
 
 ### Descrição das variáveis do processo:
 - P- PDG: Pressão na PDG (Pa);
