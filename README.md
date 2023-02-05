@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/101029639/216843301-34792f5f-68f8-4885-846e-53562efa1613.png)
+
+##Projeto: Prevenção de formação de hidratos em poços de petróleo utilizando modelos de Aprendizagem de Máquina
 
 Na indústria do petróleo, assim como em outras atividades industriais tem crescido a demanda por encontrar formas de se realizar essas operações de forma segura, produtiva, com qualidade e com eficiência energética. Para isso o controle desses processos se faz necessário, a fim de se evitar a ocorrência de eventos indesejados, como falhas ou mal funcionamentos. Falhas são caracterizadas por desvios ou anomalias na operação normal de um processo, que pode ser caracterizadas por sinais de bibração de uma máquina, sensores de temperatura e pressão de um processo e etc.
 
