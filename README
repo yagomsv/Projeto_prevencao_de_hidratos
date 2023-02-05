@@ -13,7 +13,7 @@ Nesse estudo foram utilizados dados reais e simulados de um processo de produç�
 O objetivo desse estudo foi realizar uma análise exploratória dos dados para entender melhor os dados e o comportamento das variáveis ao longo do processo, além de identificar variáveis congeladas e faltantes. Posteriormente foi realizado a criação de *Machine Learning* para classificação binária da condição dos poços. Para a criação dos modelos foi optado por utilizar uma metodologia que sugeri a criação de modelos mais simples até modelos mais robustos, avaliando-os e escolhendo aquele que melhor se encaixar a situação problema.
 
 Descrição das variáveis do processo:
-- **P- PDG:** Pressão na PDG (Pa);
+- <b>P- PDG:</b> Pressão na PDG (Pa);
 - **P- TPT:** Pressão no Transdutor de pressão e Temperatura do poço (Pa);
 - **T- TPT:** Temperatura no Transdutor de pressão e Temperatura do poço (°C);
 - **P-MON-CKP:** Pressão a montante na PCK (Válvula choke de produção) (Pa);
