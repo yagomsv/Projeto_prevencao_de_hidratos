@@ -1,4 +1,3 @@
-![image] (https://media.licdn.com/dms/image/C4D12AQF7BDz5jrcAMQ/article-inline_image-shrink_1000_1488/0/1542838035867?e=1680739200&v=beta&t=mok4Q1MJlWhTRl0n1KSVn-wi7YZdOGqY41KoCKS-3hc)
 
 Na indústria do petróleo, assim como em outras atividades industriais tem crescido a demanda por encontrar formas de se realizar essas operações de forma segura, produtiva, com qualidade e com eficiência energética. Para isso o controle desses processos se faz necessário, a fim de se evitar a ocorrência de eventos indesejados, como falhas ou mal funcionamentos. Falhas são caracterizadas por desvios ou anomalias na operação normal de um processo, que pode ser caracterizadas por sinais de bibração de uma máquina, sensores de temperatura e pressão de um processo e etc.
 
@@ -12,18 +11,18 @@ Nesse estudo foram utilizados dados reais e simulados de um processo de produç�
 
 O objetivo desse estudo foi realizar uma análise exploratória dos dados para entender melhor os dados e o comportamento das variáveis ao longo do processo, além de identificar variáveis congeladas e faltantes. Posteriormente foi realizado a criação de *Machine Learning* para classificação binária da condição dos poços. Para a criação dos modelos foi optado por utilizar uma metodologia que sugeri a criação de modelos mais simples até modelos mais robustos, avaliando-os e escolhendo aquele que melhor se encaixar a situação problema.
 
-Descrição das variáveis do processo:
-- <b>P- PDG:</b> Pressão na PDG (Pa);
-- **P- TPT:** Pressão no Transdutor de pressão e Temperatura do poço (Pa);
-- **T- TPT:** Temperatura no Transdutor de pressão e Temperatura do poço (°C);
-- **P-MON-CKP:** Pressão a montante na PCK (Válvula choke de produção) (Pa);
-- **T-JUS-CKP:** Temperatura a jusante na PCK (°C);
-- **P-JUS-CKGL:** Pressão a jusante na GLCK (Gás lift) (Pa);
-- **T-JUS-CKGL:** Temperatura a jusante na GLCK (Gás lift) (°C);
+### Descrição das variáveis do processo:
+- P- PDG: Pressão na PDG (Pa);
+- P- TPT: Pressão no Transdutor de pressão e Temperatura do poço (Pa);
+- T- TPT: Temperatura no Transdutor de pressão e Temperatura do poço (°C);
+- P-MON-CKP: Pressão a montante na PCK (Válvula choke de produção) (Pa);
+- T-JUS-CKP: Temperatura a jusante na PCK (°C);
+- P-JUS-CKGL: Pressão a jusante na GLCK (Gás lift) (Pa);
+- T-JUS-CKGL: Temperatura a jusante na GLCK (Gás lift) (°C);
 - **QGL:** Vazão do Gás lift (m³/s).
 
-Ferramentas e dados utilizados:
-- **Manipulação, limpeza e análise exploratória dos dados**: Pandas, Numpy, missingno;
-- **Visualização dos dados**: Matplotlib;
-- **Machine Learning**: Scikit- Learn (Modelos de classificação Regressão Logística e Árvores de Decisão)
-- **Fonte dos dados**: https://www.sciencedirect.com/science/article/pii/S0920410519306357?via%3Dihub
+### Ferramentas e dados utilizados:
+- Manipulação, limpeza e análise exploratória dos dados: Pandas, Numpy, missingno;
+- Visualização dos dados: Matplotlib;
+- Machine Learning: Scikit- Learn (Modelos de classificação Regressão Logística e Árvores de Decisão)
+- Fonte dos dados: https://www.sciencedirect.com/science/article/pii/S0920410519306357?via%3Dihub
